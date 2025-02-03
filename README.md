@@ -132,7 +132,7 @@ Connect the MSP432P401R microcontroller whit the ESP32-1 using F/F Jumper wires,
 
 ##### Esp32-2 Setup  
 1. Connect the ESP with a computer.
-2. Go to [`Rover/Final/DcandServo.ino`](Rover/Final/DcandServo.ino), and download the file. 
+2. Go to [`Rover/Final/DcandServo.ino`](Rover/Final/DCandServo.ino), and download the file. 
 3. Open it with Arduino IDE and install the library: **"ESP32Servo"** by *Kevin Harrington, John K. Bennett*.  
 4. Upload and run the code.
 
